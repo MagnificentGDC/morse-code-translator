@@ -7,3 +7,8 @@ To allow the clipboard function of the program to work, make sure you have the P
 
 Download Python (for windows): https://www.python.org/downloads/
 Install clipboard (using command prompt): "pip install clipboard"
+
+
+
+To translate text to morse code (or vise versa), begin typing out what you want translated, then press "Enter".
+To stop the program, type "e" or "exit", then press "Enter".
